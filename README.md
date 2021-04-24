@@ -33,7 +33,7 @@ git clone <repo>
 
 ## Authors
 
-* **Juan Sebastian Salazar Aguirre** - *Initial work* - [jsebastiansalazar7](https://github.com/jsebastiansalazar7)
+* **Kevin Stiven Marin** - *Initial work* - [ksmarin](https://github.com/ksmarin/Cryptocurrencies)
 
 ## License
 
