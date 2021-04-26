@@ -1,9 +1,12 @@
 # Cryptocurrencies
 WChallenge - Cryptocurrencies Monitor
 
-### Installing
+### Requirements
 
-####hola
+* Node.js v14.13.0
+* MongoDB v4.4.5
+
+### Installing
 
 Para clonar el proyecto en su máquina local use el comando:
 
