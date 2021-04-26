@@ -3,14 +3,28 @@ WChallenge - Cryptocurrencies Monitor
 
 ### Installing
 
-To clone the project into your local machine use the command:
+Para clonar el proyecto en su máquina local use el comando:
 
 ```
 git clone <repo>
 ```
 
+Luego ingrese a la carpeta con el comando:
+
 ```
 cd Cryptocurrencies
+```
+
+Debe instalar las dependencias:
+
+```
+npm install
+```
+
+Por último corra el proyecto con:
+
+```
+npm start
 ```
 
 ## Authors
